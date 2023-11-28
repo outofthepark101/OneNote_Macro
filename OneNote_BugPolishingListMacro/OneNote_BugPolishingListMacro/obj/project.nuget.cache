@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O5zix7MhXB4/GAp4kR7nlcsl3IgL6S16nIo6r81Q0/xlDOBKQPVvx9BySXMv1UJl+dFaT4bpoIMzs3QyV69VvA==",
+  "dgSpecHash": "V1jS6HzqWgX8fRenx3rMYcmZGCV2ycj28jS3pmUkFH9vImq5YCWLr3U0IaFb5RB/W1SwWuxumJZVLD7A/dwhQA==",
   "success": true,
-  "projectFilePath": "D:\\Repo\\VSCommunity\\OneNote_BugPolishingListMacro\\OneNote_BugPolishingListMacro\\OneNote_BugPolishingListMacro.csproj",
+  "projectFilePath": "D:\\Repo\\VSCommunity\\OneNote_Macro\\OneNote_BugPolishingListMacro\\OneNote_BugPolishingListMacro\\OneNote_BugPolishingListMacro.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\max park\\.nuget\\packages\\azure.core\\1.36.0\\azure.core.1.36.0.nupkg.sha512",
     "C:\\Users\\max park\\.nuget\\packages\\azure.identity\\1.10.4\\azure.identity.1.10.4.nupkg.sha512",

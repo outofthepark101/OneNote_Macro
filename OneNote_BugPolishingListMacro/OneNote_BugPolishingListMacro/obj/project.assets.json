@@ -2700,11 +2700,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repo\\VSCommunity\\OneNote_BugPolishingListMacro\\OneNote_BugPolishingListMacro\\OneNote_BugPolishingListMacro.csproj",
+      "projectUniqueName": "D:\\Repo\\VSCommunity\\OneNote_Macro\\OneNote_BugPolishingListMacro\\OneNote_BugPolishingListMacro\\OneNote_BugPolishingListMacro.csproj",
       "projectName": "OneNote_BugPolishingListMacro",
-      "projectPath": "D:\\Repo\\VSCommunity\\OneNote_BugPolishingListMacro\\OneNote_BugPolishingListMacro\\OneNote_BugPolishingListMacro.csproj",
+      "projectPath": "D:\\Repo\\VSCommunity\\OneNote_Macro\\OneNote_BugPolishingListMacro\\OneNote_BugPolishingListMacro\\OneNote_BugPolishingListMacro.csproj",
       "packagesPath": "C:\\Users\\max park\\.nuget\\packages\\",
-      "outputPath": "D:\\Repo\\VSCommunity\\OneNote_BugPolishingListMacro\\OneNote_BugPolishingListMacro\\obj\\",
+      "outputPath": "D:\\Repo\\VSCommunity\\OneNote_Macro\\OneNote_BugPolishingListMacro\\OneNote_BugPolishingListMacro\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\max park\\AppData\\Roaming\\NuGet\\NuGet.Config",
