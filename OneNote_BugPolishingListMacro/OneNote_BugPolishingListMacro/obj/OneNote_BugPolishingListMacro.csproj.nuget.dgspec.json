@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Repo\\VSCommunity\\OneNote_BugPolishingListMacro\\OneNote_BugPolishingListMacro\\OneNote_BugPolishingListMacro.csproj": {}
+  },
+  "projects": {
+    "D:\\Repo\\VSCommunity\\OneNote_BugPolishingListMacro\\OneNote_BugPolishingListMacro\\OneNote_BugPolishingListMacro.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repo\\VSCommunity\\OneNote_BugPolishingListMacro\\OneNote_BugPolishingListMacro\\OneNote_BugPolishingListMacro.csproj",
+        "projectName": "OneNote_BugPolishingListMacro",
+        "projectPath": "D:\\Repo\\VSCommunity\\OneNote_BugPolishingListMacro\\OneNote_BugPolishingListMacro\\OneNote_BugPolishingListMacro.csproj",
+        "packagesPath": "C:\\Users\\max park\\.nuget\\packages\\",
+        "outputPath": "D:\\Repo\\VSCommunity\\OneNote_BugPolishingListMacro\\OneNote_BugPolishingListMacro\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\max park\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Azure.Identity": {
+              "target": "Package",
+              "version": "[1.10.4, )"
+            },
+            "Microsoft.Graph": {
+              "target": "Package",
+              "version": "[5.36.0, )"
+            },
+            "Microsoft.Identity.Client": {
+              "target": "Package",
+              "version": "[4.57.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
