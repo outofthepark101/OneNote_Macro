@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OneNote_BugPolishingListMacro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d3d396196e96144a400d7aa2b8b57c646b3072d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94e0d1dcd17f726294bf96f63f27469e0275971d")]
 [assembly: System.Reflection.AssemblyProductAttribute("OneNote_BugPolishingListMacro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OneNote_BugPolishingListMacro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

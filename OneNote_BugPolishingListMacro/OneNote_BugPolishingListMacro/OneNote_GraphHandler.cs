@@ -28,8 +28,8 @@ public class GraphHandler
         return new GraphServiceClient(clientSecretCredential, scopes);
     }
 
-    public async Task<User?> GetUser(string userPrincipalName)
+    public async Task<NotebookCollectionResponse> GetNotebook(string userPrincipalName)
     {
-        return await GraphClient.Users[userPrincipalName].GetAsync();
+        return await GraphClient.Users[userPrincipalName].Onenote.Notebooks.GetAsync();
     }
 }
